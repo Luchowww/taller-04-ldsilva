@@ -1,0 +1,38 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 20px;
+  background: linear-gradient(#010127, #010133, #020244);
+  text-align: center;
+}
+
+.hero-title {
+  color: white;
+  font-size: 2.5rem;
+}
+
+.hero-highlight {
+    color: #ff1170;
+}
+
+.hero-subtitle {
+  color: #ccc;
+  font-size: 0.75rem;
+  margin: 20px 0;
+  max-width: 600px;
+}
+
+.hero-button {
+  background-color: #ff1170;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.hero-button {
+  text-decoration: none;
+}

@@ -1,0 +1,46 @@
+.counter-section {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #0d1120;
+  color: white;
+}
+
+.counter-hint {
+  color: #94a3b8;
+  margin-bottom: 30px;
+}
+
+.counter-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  background-color: #1a1f35;
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.counter-btn {
+  background-color: #ff1170;
+  color: white;
+  border: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.counter-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ff1170;
+  min-width: 40px;
+}
+
+.counter-label {
+  color: #94a3b8;
+  margin-top: 20px;
+}

@@ -1,0 +1,18 @@
+.courses-section {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f8fafc;
+}
+
+.courses-subtitle {
+  color: #010129;
+  margin-bottom: 40px;
+}
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
